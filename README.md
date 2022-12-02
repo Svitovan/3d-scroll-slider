@@ -2,4 +2,4 @@
 HTML, CSS, JavaScript
 Images, Video
 
-![My Image](../media/3d-slider.png)
+![My Image](/media/3d-slider.png)
