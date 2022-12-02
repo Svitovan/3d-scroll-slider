@@ -1,5 +1,5 @@
 # 3d-scroll-slider
 HTML, CSS, JavaScript
-Images, Video
+<br>images & video
 
-![My Image](/media/3d-slider.png)
+![3d-slider](/media/3d-slider.png)
